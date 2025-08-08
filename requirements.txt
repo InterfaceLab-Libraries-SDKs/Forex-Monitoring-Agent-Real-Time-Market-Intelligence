@@ -1,0 +1,6 @@
+africastalking
+transformers
+torch
+python-dotenv
+asyncio
+aiohttp
