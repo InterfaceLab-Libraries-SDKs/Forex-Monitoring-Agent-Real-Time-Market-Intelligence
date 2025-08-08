@@ -95,6 +95,32 @@ YOUR_PHONE_NUMBER=+2547XXXXXXXX  # Format: +2547XXXXXXXX
 python forex_agent.py
 ```
 
+### Behavior Output:
+
+```bash
+🚀 Starting Advanced Forex Agent
+🔍 Monitoring: EUR/USD, USD/JPY, GBP/USD, AUD/USD
+⏱️ Market hours: 24/5
+
+🖥️ SYSTEM STATUS
+Queue depth: 0
+Active events: 0
+Latest alerts:
+  EUR/USD: 1.0823 | Last alert: 325s ago
+
+⚡ EVENT RECEIVED [price] for EUR/USD
+📢 The EUR/USD pair has experienced a significant movement of 1.62% in the last minute...
+
+🚨 ALERT: EUR/USD PRICE MOVEMENT: 1.62%
+📞 Call initiated: CA1234567890abcdef
+
+🖥️ SYSTEM STATUS
+Queue depth: 1
+Active events: 0
+Latest alerts:
+  EUR/USD: 1.0823 | Last alert: 0s ago
+```
+
 ## Configuration
 
 Customize the agent behavior by modifying these parameters in the code:
