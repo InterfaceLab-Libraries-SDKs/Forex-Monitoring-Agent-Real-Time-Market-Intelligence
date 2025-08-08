@@ -60,8 +60,8 @@ graph TD
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/forex-monitoring-agent.git
-cd forex-monitoring-agent
+git clone https://github.com/InterfaceLab-Libraries-SDKs/forex-monitoring-agent-real-time-market-intelligence.git
+cd forex-monitoring-agent-real-time-market-intelligence
 ```
 
 2. Create and activate virtual environment:
