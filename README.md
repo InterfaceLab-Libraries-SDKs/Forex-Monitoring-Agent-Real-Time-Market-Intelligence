@@ -66,7 +66,7 @@ cd forex-monitoring-agent-real-time-market-intelligence
 
 2. Create and activate virtual environment:
 ```bash
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate    # Windows
 ```
